@@ -1,8 +1,18 @@
-# Ainoa Figueroa Vidal — AI Engineer
+# Hi, I'm Ainoa 👋
 
-**Building production LLM/RAG systems for regulated and high-stakes environments.**
+**AI Engineer** — I build production LLM/RAG systems for regulated and high-stakes environments.
 
-AI Engineer at **IDARA** (Hospital Universitario Montecelo / SERGAS, EU Next Generation funded) — clinical AI assistant with RAG over medical documentation, real users, regulated data.
+```python
+ainoa = {
+    "pronouns":     ["she", "her"],
+    "location":     "Vigo, Spain 🌊",
+    "current_role": "AI Engineer @ IDARA / SERGAS (EU Next Generation funded)",
+    "focus":        ["LLMs in production", "RAG systems", "governed AI agents"],
+    "background":   ["Health Biology", "MSc Bioinformatics & Biostatistics"],
+    "languages":    ["Spanish", "Galician", "English"],
+    "available":    "hybrid / remote"
+}
+```
 
 ---
 
@@ -40,11 +50,5 @@ AI Engineer at **IDARA** (Hospital Universitario Montecelo / SERGAS, EU Next Gen
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ainoafv&layout=compact&theme=dark&hide_border=true)
 
 ---
-
-### 🎓 Background
-
-- BSc Health Biology · MSc Bioinformatics & Biostatistics
-- AI engineering in production since 2025
-- Based in Vigo, Spain · hybrid / remote
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ainoafigueroavidal)
